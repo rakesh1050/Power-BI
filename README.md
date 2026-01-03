@@ -72,4 +72,4 @@ A regional sales manager can use the PIZZA Paradiso dashboard to identify that t
 
 6. Screenshots / Demos
 PIZZA Paradiso – Sales Performance & Business Insights Dashboard
-Example:
+Example:(https://github.com/rakesh1050/Power-BI/blob/main/PIZZA%20IMAGE.jpeg)
